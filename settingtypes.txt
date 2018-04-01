@@ -1,0 +1,15 @@
+
+
+
+
+
+# Rate at which friendly mobs are spawned.
+# Lower numbers are faster.
+# default = 5500
+mobs_war_friendly_rate(Friendly Spawn Rate) float 5500
+
+
+# Rate at which hostile mobs are spawned.
+# Lower numbers are faster.
+# default = 4000
+mobs_war_hostile_rate(Hostile Spawn Rate) float 4000

@@ -1,0 +1,9 @@
+default
+tnt
+fire
+farming
+bones
+beds
+doors
+mobs
+squaresville?
